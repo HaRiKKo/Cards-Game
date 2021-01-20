@@ -1,5 +1,5 @@
 # Cards-Game
-Elevator's repository
+Nomination Whist's repository
 
 Language : Pascal
 
